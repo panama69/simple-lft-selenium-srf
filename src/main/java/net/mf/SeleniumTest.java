@@ -24,7 +24,7 @@ public class SeleniumTest  {
 
      * Micro Focus StormRunner Functional Selenium Java upload example
      *
-     * Example based on example found at https://admhelp.microfocus.com/srf/en/1.30/Content/upload-sel.htm
+     * Example based on example found at https://admhelp.microfocus.com/srf/en/1.50/Content/upload-sel.htm
 
      */
     private static RemoteWebDriver driver;
